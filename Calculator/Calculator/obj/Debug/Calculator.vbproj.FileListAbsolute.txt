@@ -1,0 +1,55 @@
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+E:\KULIAH\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.xml
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+E:\KULIAH\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+E:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Calculator\Calculator\obj\Debug\Calculator.xml
+E:\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Rosemary\Downloads\Compressed\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+E:\New folder (2)\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\New folder (2)\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\New folder (2)\Calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+E:\New folder (2)\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\SLDM\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
